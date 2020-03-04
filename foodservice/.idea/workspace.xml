@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="380ec56e-3aec-44d5-a399-a33011b456b8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/myvenv/mfscrm/mfscrm/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/mfscrm/mfscrm/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/.ignore" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
