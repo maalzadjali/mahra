@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="380ec56e-3aec-44d5-a399-a33011b456b8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/myvenv/.ignore" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvenv/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +27,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Python\mahra\foodservice\myvenv" />
       <recent name="C:\Users\Mahra\foodservice\myvenv\mfscrm\crm\templates" />
       <recent name="C:\Users\Mahra\foodservice\myvenv\mfscrm\crm" />
       <recent name="C:\Users\Mahra\foodservice\myvenv\mfscrm\crm\templates\crm" />
